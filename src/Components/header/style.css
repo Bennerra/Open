@@ -1,0 +1,16 @@
+.header {
+    padding: 20px 0;
+}
+.header__wrapper {
+    padding: 0 15px;
+    max-width: 1010px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header__buttons {
+    display: flex;
+    align-items: center;
+    gap: 31px;
+}
